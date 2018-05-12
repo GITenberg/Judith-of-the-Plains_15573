@@ -1,0 +1,28 @@
+_repo: Judith-of-the-Plains_15573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manning, Marie
+    alias: Fairfax, Beatrice
+    deathdate: 1945
+    gutenberg_agent_id: '31686'
+    url: http://www.gutenberg.org/2009/agents/31686
+description: ''
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyoming -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Racially mixed people -- Fiction'
+- !lcsh 'Western stories'
+title: Judith of the Plains
+url: http://www.gutenberg.org/ebooks/15573
